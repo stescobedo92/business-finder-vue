@@ -1,7 +1,7 @@
 # business-finder-vue
 
 ## Intro
-This project was an experiment with [Vue](http://vuejs.org), [Vuex](https://vuex.vuejs.org/en/) and [Vuetifyjs](http://vuetifyjs.com).
+This project was an experiment with [Vue](http://vuejs.org), [Vuex](https://vuex.vuejs.org/en/) and [Vuetify](http://vuetifyjs.com).
 
 The initial goal was develop a client side interface to CRUD listings, events and deals.
 
