@@ -19,5 +19,5 @@ npm install
 3) Compile, serve and hot reload the application
 
 ```
-npm start
+npm run serve
 ```
